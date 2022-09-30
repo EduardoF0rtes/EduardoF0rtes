@@ -1,7 +1,6 @@
 
 # Olá! Eu sou o Eduardo Fortes 👽👨‍💻
 - 🔎 Em busca de novos desafios no mundo Tech
-- 📚 Estudante na Resilia
 - ⚡ "O único dia fácil foi ontem"
 
 <div aling="center> 
