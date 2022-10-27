@@ -11,8 +11,8 @@
 
 <div> 
  <a href = "mailto:eduardo.fortes1985@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/eduardo-fortes-a3a024a4/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" arget="_blank"></a>
- <a href="https://instagram.com/_eduardofortes" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"    target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/eduardo-fortes-a3a024a4/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" arget="_blank" widht="30px" height="30px"></a>
+ <a href="https://instagram.com/_eduardofortes" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"    target="_blank" widht="30px" height="30px"></a> 
 </div><br>
 
 ## Tech Skills 
