@@ -1,5 +1,5 @@
 
-# Olá! Eu sou o Eduardo Fortes 👨‍💻
+# Olá! Eu sou o Eduardo Fortes 👨‍💻.
 - 🔎 Em busca de novos desafios no mundo Tech
 - ☁ Salesforce Ranger⭐
 - ⚡ "O único dia fácil foi ontem"
